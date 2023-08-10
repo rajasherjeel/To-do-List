@@ -5,6 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@aws-amplify/ui-react": "^5.1.0",
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@mui/core": "^5.0.0-alpha.54",
@@ -12,6 +13,7 @@
     "@mui/lab": "^5.0.0-alpha.127",
     "@mui/material": "^5.12.1",
     "@mui/styles": "^5.12.0",
+    "aws-amplify": "^5.3.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-scripts": "5.0.1"

@@ -1,0 +1,16 @@
+.headerCont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.headerCont .btn{
+    background: black;
+    color: white;
+    border: 1px solid grey;
+    border-radius: 16px;
+    padding: 10px;
+    cursor: pointer;
+}
+.headerCont .btn:hover{
+    background: #292727;
+}
